@@ -1,0 +1,362 @@
+#frontgif{
+    width: 100%;
+    align-items: center;
+}
+
+#homepage{
+    display: block ;
+    align-items: center;
+    padding: 100px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-image: url(img/back\ of\ home.jpg);
+}
+
+#exclusive{
+    width: 50%;
+    padding-left: 25%;
+}
+  
+
+h2{
+    text-align: center;
+    color:  #FFFD47;
+    border: 5px solid #FFFD47;
+    padding: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: #fc49b8;
+}
+
+#quiz{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex: wrap;
+    flex-direction: row;
+    padding-right: 10px;
+    margin-right: 10px;
+}
+
+#firstflex{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#phone1{
+    max-width: 70px;
+}
+
+#phone2{
+    max-width: 70px;
+}
+
+#phone3{
+    max-width: 70px;
+}
+
+
+body{
+    background-color: white;
+}
+
+
+#feedpage{
+    background-image: url(img/background.jpg);
+}
+
+#wakeup{
+    border: 5px dotted pink;
+    padding: 10px;
+    width: 40%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-image: url(img/back1.jpg);
+    text-align: center;
+    display: block ;
+    color: rgb(11, 11, 73); 
+    margin: 20px;
+}
+
+
+img{
+    width: 300px;
+    display: inline-block;
+}
+
+
+#weather{
+    border: 10px solid rgb(64, 64, 103);
+    padding: 10px;
+    width: 40%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    background-image: url(img/back2.jpg);
+    color: rgb(126, 3, 24);
+    margin: 20px;
+}
+
+
+#class{
+    border: 10px dotted rgb(75, 39, 13);
+    padding: 10px;
+    width: 40%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    background-image: url(img/back3.jpg);
+    color: rgb(5, 41, 5);
+    margin: 20px;
+}
+
+
+
+#teeth{
+    border: 5px dotted white;
+    padding: 10px;
+    width: 40%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    background-image: url(img/back4.jpg);
+    color: rgb(54, 11, 54); 
+    margin: 20px;
+}
+
+#fridge{
+    border: 5px dashed orange;
+    padding: 10px;
+    width: 40%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    background-image: url(img/back5.jpg);
+    color: rgb(120, 8, 26);
+    margin: 20px;
+}
+
+#music1D{
+   border: 5px dotted pink;
+    padding: 10px;
+    width: 40%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    background-image: url(img/back6.jpg);
+    color: rgb(113, 24, 24);
+    margin: 20px;
+}
+
+#radio{
+    border: 5px dotted rgb(169, 201, 169);
+    padding: 10px;
+    width: 40%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    background-image: url(img/back7.jpg);
+    color: white;
+    margin: 20px;
+}
+
+#firsthw{
+    border: 5px dotted rgb(244, 244, 0);
+    padding: 10px;
+    width: 40%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    background-image: url(img/back8.jpg);
+    color: rgb(94, 41, 131);
+    margin: 20px; 
+}
+
+#pastamaking{
+    border: 5px dotted rgb(45, 175, 182);
+    padding: 10px;
+    width: 40%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    background-image: url(img/back9.jpg);
+    color: white;
+    margin: 20px;
+    align-content: center;
+}
+
+#secondflex{
+    border: 5px dotted white;
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    display: inline block;
+    justify-content: space-around;
+    padding: 10px;
+    margin: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-image: url(img/back10.jpg);
+    color: white;
+}
+
+#flextext{
+    background-color: #ffe6f2;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding: 10px;
+    display:grid;
+    text-align: center;
+    border-radius: 5px;
+    color: #2c003e; 
+    font-size: 20px;
+    font-family: 'Comic Sans MS', cursive; 
+}
+
+#tacos{
+    border: 10px dotted lightgoldenrodyellow;
+    padding: 10px;
+    width: 40%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    background-image: url(img/back11.jpg);
+    color: white;
+    margin: 20px;
+    align-content: center; 
+}
+
+#glee{
+    border: 5px dotted rgb(73, 54, 12);
+    padding: 10px;
+    width: 40%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    background-image: url(img/back12.jpg);
+    color: rgb(73, 54, 12);
+    margin: 20px;
+    align-content: center;
+}
+  
+#gmail{
+    border: 5px dotted white;
+    padding: 10px;
+    width: 40%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    background-image: url(img/back13.jpg);
+    color: rgb(72, 51, 23);
+    margin: 20px;
+    align-content: center;
+}
+
+#steps{
+    border: 5px dotted black;
+    padding: 10px;
+    width: 40%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    background-image: url(img/back14.jpg);
+    color: white;
+    margin: 20px;
+    align-content: center;
+}
+
+#center{
+    width: 70;
+    align-items: center;
+    display: grid;
+    place-items: center; /* Centers both horizontally and vertically */
+    min-height: 100vh;
+  }  
+
+
+.backcolor{
+    background-color: #ffe6f2; 
+    padding: 20px;
+    border-radius: 10px;
+    color: #2c003e; 
+    margin: 40px;
+    font-family: 'Comic Sans MS', cursive; 
+}
+
+#bye{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffe6f2; 
+    padding: 20px;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 10px;
+    color: #2c003e; 
+    font-family: 'Comic Sans MS', cursive; 
+}
+
+#endimage{
+    width: 20%;
+    display: flex;
+    justify-content: right;
+}
+
+#wand{
+    width: 85%;
+    align-items: center; 
+}
+
+#disney{
+   width: 100px;
+   display: inline;
+}
+
+#spark{
+    width: 100px;
+
+}
+
+.qq{
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    padding-left: 25%;
+}
+
+#qpage{
+    background-color: #fba0d8;
+}
+
+#quiztitle{
+    border: 5px solid rgb(168, 255, 168);
+    color: #FFFD47;
+    background-color: #fc49b8;
+    text-align: center;
+    font-size: 50px;
+}
